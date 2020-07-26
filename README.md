@@ -5,3 +5,4 @@
 ### 1.2[Java数据类型和运算符](https://github.com/Ze1Sure/javaSE/issues/2)
 ### 1.3[java二进制运算、数据类型的转换和分支结构](https://github.com/Ze1Sure/javaSE/issues/3)
 ### 1.4[前三章作业题目+key](https://github.com/Ze1Sure/javaSE/issues/4)
+### 1.5[java循环结构,Scanner类](https://github.com/Ze1Sure/javaSE/issues/5)
